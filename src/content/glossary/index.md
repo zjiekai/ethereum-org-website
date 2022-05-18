@@ -18,6 +18,10 @@ A type of attack on a decentralized [network](#network) where a group gains cont
 
 ## A {#section-a}
 
+### some cool new term
+
+Aleksey things this is cool
+
 ### account {#account}
 
 An object containing an [address](#address), balance, [nonce](#nonce), and optional storage and code. An account can be a [contract account](#contract-account) or an [externally owned account (EOA)](#eoa).
